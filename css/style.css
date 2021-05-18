@@ -1,0 +1,15 @@
+.container-fluid{
+    width:100%;
+    max-width:100%;
+    height:350px;
+    background-color:#1abb9b;
+}
+
+.first-image{
+    border:1px solid white;
+    height:200px;
+    margin:20px 0;
+}
+.title{
+    text-align:center;
+}
