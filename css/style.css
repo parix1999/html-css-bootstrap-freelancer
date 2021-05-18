@@ -12,4 +12,9 @@
 }
 .title{
     text-align:center;
+    border:1px solid white;
+}
+.star{
+    border:1px solid white;
+    height:50px;
 }
