@@ -6,15 +6,18 @@
 }
 
 .first-image{
-    border:1px solid white;
+    border:1px solid black;
     height:200px;
     margin:20px 0;
 }
-.title{
+.title, .title-2{
     text-align:center;
-    border:1px solid white;
+    border:1px solid black;
+}
+.title-2{
+    font-size:11px;
 }
 .star{
-    border:1px solid white;
-    height:50px;
+    border:1px solid black;
+    height:30px;
 }
