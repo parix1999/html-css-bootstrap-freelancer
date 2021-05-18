@@ -21,3 +21,11 @@
     border:1px solid black;
     height:30px;
 }
+.margine-sopra{
+    margin-top:20px;
+}
+/* photo class */
+.photo-content{
+    border:1px solid black;
+    height:100px;
+}
