@@ -31,3 +31,12 @@
     height:100px;
     margin:10px 0;
 }
+.text{
+    border:1px solid black;
+    margin:10px 0;
+}
+.bottom{
+    border:1px solid black;
+    height:30px;
+    text-align:center;
+}
