@@ -1,5 +1,23 @@
+/* inizio classi nav-bar presa da bootstrap */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------------------------------- */
 .green{
     background-color:#1abb9b;
+    margin-top:56px;
 }
 /* classi per il jumbo */
 .first-image{
@@ -20,6 +38,10 @@
 .star{
     margin-bottom:24px;
     text-align:center;
+    color:white;
+}
+.black-color{
+    color:black;
 }
 .star::before{
     content:"";
@@ -27,7 +49,6 @@
     height:5px;
     background-color:gray;
 }
-
 /* ---------------------------------- */
 /* classi portfolio  */
 .title-port{
@@ -44,6 +65,7 @@
 /* classi about  */
 .box-text{
     margin-bottom:24px;
+    color:white;
 }
 .centratura{
     justify-content: space-between;
