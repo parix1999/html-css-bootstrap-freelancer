@@ -32,15 +32,27 @@
     margin-bottom:24px;
 }
 /* ---------------------------------- */
-/* classi input */
+/* classi about  */
 .box-text{
     margin-bottom:24px;
 }
-.bottom{
-    border:1px solid black;
-    height:30px;
-    text-align:center;
+.centratura{
+    justify-content: space-between;
 }
+.cen{
+    text-align: center;
+    margin-bottom:24px;
+}
+.about{
+    border-color:white;
+    background-color:#1abb9b;
+}
+
+
+/* ---------------------------------- */
+/* classi input */
+
+
 .content-input input{
     border:0;
     border-bottom:1px solid #ccc;
@@ -55,10 +67,14 @@
 #message{
     border:0;
     border-bottom:1px solid #ccc;
+    width:100%;
 }
 .bottone{
     margin-bottom:24px;
+    background-color:#1abb9b;
+    border-color:#1abb9b;
 }
+
 /* ---------------------------------- */
 
 .blue{
