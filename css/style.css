@@ -1,42 +1,52 @@
 .green{
     background-color:#1abb9b;
 }
-
+/* classi per il jumbo */
 .first-image{
-    border:1px solid black;
-    height:200px;
-    margin:20px 0;
+    /* margin:20px 0; */
+    text-align:center;
+}
+.first-image img{
+    width:200px;
 }
 .title, .title-2{
     text-align:center;
-    border:1px solid black;
 }
-.title-2{
+.green .title-2{
     font-size:11px;
+    padding-bottom:10px;
 }
 .star{
-    border:1px solid black;
-    height:30px;
     margin-bottom:24px;
+    text-align:center;
 }
-.margine-sopra{
-    margin-top:20px;
+.star::before{
+    content:"";
+    width:50px;
+    height:5px;
+    background-color:gray;
 }
+
+/* ---------------------------------- */
+
 /* photo class */
 .colored-box{
-    border:1px solid black;
+    background-color:red;
     height:260px;
     margin-bottom:24px;
 }
-.text{
-    border:1px solid black;
-    margin:10px 0;
+.box-text{
+    margin-bottom:24px;
 }
 .bottom{
     border:1px solid black;
     height:30px;
     text-align:center;
 }
+
+
+
+
 
 .input{
     display:block;
