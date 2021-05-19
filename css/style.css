@@ -26,15 +26,14 @@
     height:5px;
     background-color:gray;
 }
-
-/* ---------------------------------- */
-
-/* photo class */
 .colored-box{
     background-color:red;
     height:260px;
     margin-bottom:24px;
 }
+
+/* ---------------------------------- */
+/* classi input */
 .box-text{
     margin-bottom:24px;
 }
@@ -43,8 +42,12 @@
     height:30px;
     text-align:center;
 }
+.content-input input{
+    border:0;
+    border-bottom:1px solid #ccc;
+}
 
-
+/* ---------------------------------- */
 
 
 
