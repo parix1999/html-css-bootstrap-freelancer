@@ -33,6 +33,7 @@
 .title, .title-2{
     text-align:center;
     color:white;
+    margin-top:24px;
 }
 .green .title-2{
     font-size:11px;
@@ -81,7 +82,7 @@
     color:white;
 }
 .centratura{
-    justify-content: space-between;
+    justify-content: space-around;
 }
 .cen{
     text-align: center;
